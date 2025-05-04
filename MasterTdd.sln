@@ -4,13 +4,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CB7E89A4-FCF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7CF543D9-A11C-435E-92D0-49E09E786527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenTests", "OddEvenTests\OddEvenTests.csproj", "{B512C8F1-EF17-446D-BDDA-528172B06B0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{B512C8F1-EF17-446D-BDDA-528172B06B0D} = {7CF543D9-A11C-435E-92D0-49E09E786527}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B512C8F1-EF17-446D-BDDA-528172B06B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B512C8F1-EF17-446D-BDDA-528172B06B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B512C8F1-EF17-446D-BDDA-528172B06B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B512C8F1-EF17-446D-BDDA-528172B06B0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
