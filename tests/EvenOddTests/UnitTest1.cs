@@ -1,4 +1,4 @@
-﻿namespace OddEvenTests;
+﻿namespace EvenOddTests;
 
 public class UnitTest1
 {
